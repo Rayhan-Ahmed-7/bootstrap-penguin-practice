@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@300;400;500&display=swap');
+
+.top-section{
+    background: #FFFBF0;
+    min-height: 600px;
+}
+.nav{
+    height:80px;
+}
+.nav-bar li a{
+    color:#3C3C3C;
+}
+.hero-details h2{
+    font-family:'Bebas Neue';
+    font-size:60px;
+    color:#FABE4C;
+}
+.women-section h2{
+    font-family:'Bebas Neue';
+    font-size:40px;
+}
+.women-section .card{
+    border-radius:20px;
+    max-width:370px;
+}
+.card h4{
+    font-family:'Poppins';
+    margin:10px 0;
+}
+.card p{
+    font-size:14px;
+    padding:0 0 10px 0;
+}
+.cards .img{
+    background:#F1F1F1;
+    border-radius:20px;
+}
+p{
+    font-family: 'Poppins';
+    color:#3E3E3E;
+}
+.title{
+    color:#363958;
+}
+.price{
+    color:#FABE4C;
+}
+.hero-details button,
+.card button{
+    padding:10px 25px;
+    border-radius:10px;
+    background:linear-gradient(to bottom, #A4BC46, #85A019);
+}
